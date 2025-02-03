@@ -1,0 +1,10 @@
+{
+  "name": "motionvault",
+  "version": "0.1.0",
+  "description": "200 web animation examples with copy-ready AI prompts + MotionLens: turn any site's animation into a prompt. React, TypeScript, Framer Motion, Three.js",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
