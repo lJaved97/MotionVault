@@ -29,3 +29,4 @@ Notes and usage details for MotionVault.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
